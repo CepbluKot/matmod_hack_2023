@@ -42,3 +42,6 @@ docker compose up
 [Игорь Малыш - МЛ + бекенд для МЛ](http://t.me/awesomecosmonaut) </br>
 [Федор Родин - фронтенд](http://t.me/ffeeejj) </br>
 [Веловатый Кирилл - бекенд](http://t.me/velovatik) </br>
+
+## Диплом
+![](https://github.com/CepbluKot/matmod_hack_2023/blob/master/diplom.jpg)
