@@ -2,11 +2,13 @@ version: '3.3'
 
 services:
   ml_back_service:
-    build: ./ml_backend/src_booking
+    network_mode: "host"
+    build: ./ml_backend
     ports:
       - "8000:8000"
 
   back_service:
+    network_mode: "host"
     build: ./s7-ecm-backend-master/src
     ports:
       - "5000:5000"
