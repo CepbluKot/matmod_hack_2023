@@ -1,11 +1,15 @@
-FROM python:latest
+FROM python:3.11.3-slim-buster
 
+# set work directory
 WORKDIR /code
 
-COPY ./req.txt /code/req.txt
-COPY ./* /code/.
 
+# install dependencies
+RUN pip3 install --upgrade pip
+COPY ./requirements.txt /code/requirements.txt
+RUN pip3 install -r requirements.txt
 
-RUN pip install -r /code/req.txt
+# copy project
+COPY . /code/
 
 CMD ["python3", "main.py"]

@@ -1,3 +1,9 @@
+import sys
+import os
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+
+
 # DB Connection, endpoints
 import datetime
 import json
@@ -26,6 +32,9 @@ from utils import columns_to_dict, groupData
 from models import *
 
 from schema import *
+
+
+
 
 # Database connection
 DATABASE_URL = 'postgresql://postgres:kirill@localhost/s7-ecm-engines'
