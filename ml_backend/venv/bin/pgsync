@@ -1,0 +1,7 @@
+#!/home/oleg/Documents/altai_backend/src_booking/venv/bin/python3
+
+"""PGSync runtime."""
+from pgsync import sync
+
+if __name__ == "__main__":
+    sync.main()

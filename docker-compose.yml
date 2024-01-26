@@ -1,0 +1,14 @@
+version: '3.3'
+
+services:
+  ml_back_service:
+    build: ./ml_backend/src_booking
+    ports:
+      - "8000:8000"
+
+  back_service:
+    build: ./s7-ecm-backend-master/src
+    ports:
+      - "5000:5000"
+
+    
