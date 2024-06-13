@@ -24,7 +24,7 @@
 docker compose up
 
 ## Ссылки
-Презентация решения - https://github.com/CepbluKot/matmod_hack_2023/blob/master/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20NAGOOR%20BABY.pptx
+Презентация решения - https://github.com/CepbluKot/matmod_hack_2023/blob/master/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20NAGOOR%20BABY.pdf
 
 Материалы - https://drive.google.com/drive/folders/1PyXlq-zqpFHwc6dpXPTzoS6wRbSn5-ib?usp=sharing
 
