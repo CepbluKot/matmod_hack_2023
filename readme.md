@@ -37,7 +37,7 @@ docker compose up
 
 ## Команда
 [Дмитрий Краснов - бекенд](http://t.me/Dm1ttry) </br>
-[Игорь Малыш - МЛ + бекенд для МЛ](http://t.me/awesomecosmonaut) </br>
+[Игорь Малыш - МЛ + бекенд для МЛ](http://t.me/igmalysh) </br>
 [Федор Родин - фронтенд](http://t.me/ffeeejj) </br>
 [Веловатый Кирилл - бекенд](http://t.me/velovatik) </br>
 
